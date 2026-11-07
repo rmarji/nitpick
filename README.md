@@ -58,16 +58,24 @@ A real run on a 60 second launch video, trimmed:
 >
 > **Weakens trust**
 >
-> 5. **"70 AI agents" in the hook, about 10 on screen.** Viewers notice. Say "my agents" or fill the scene.
-> 6. **Same location shown twice,** so it looks like there is only one project.
+> 4. **"70 AI agents" in the hook, about 10 on screen.** Viewers notice. Say "my agents" or fill the scene.
+> 5. **Same location shown twice,** so it looks like there is only one project.
 >
 > **Polish**
 >
-> 8. **Clunky caption at 0:50.** Try "Remember by place, not by list."
+> 6. **Clunky caption at 0:50.** Try "Remember by place, not by list."
 >
-> **My pick:** fix 1, 2, 3, 6 and 8 now (5 and 9 come almost free). About 2 hours of re-render.
+> **My pick:** fix 1, 2, 3, 5 and 6 now (4 comes almost free). About 2 hours of re-render.
 >
-> Next action: reply "stop and redo" or "let it finish".
+> Next action: reply "fix my pick" or "skip".
+
+A hypothetical review of a draft social post:
+
+> **Biggest problem: the opening never names the product.** Confidence 4/5. What would change my mind: if this is a reply where the product is already named.
+> **Hurts the message**
+> 1. **"Meet the future" says nothing specific.** Name the product and what it does in the opening line.
+> **My pick:** fix 1 now. One opening-line rewrite, no new assets.
+> Next action: reply "fix my pick" or "skip".
 
 ## How it judges
 
@@ -81,7 +89,7 @@ Every nitpick runs nine lenses and skips the ones that do not apply:
 | Repetition and gaps | Anything shown twice? Anything important never shown? |
 | Trust killers | Placeholders, "Example" labels, broken links, stale facts |
 | Legibility | Too small for a phone, low contrast, collisions, text gone too fast |
-| Voice and copy | Vague, clunky or generic lines ("streamline your workflow") |
+| Voice and copy | Vague, clunky or generic lines ("streamline your workflow"); AI-writing tells: not-X-but-Y framing, em dashes, one-line closers, forced triads, inflated significance |
 | Craft | Pacing, sound, transitions. For code: edge cases, security, performance |
 | Privacy | Personal data, secrets, real names that should not go public |
 

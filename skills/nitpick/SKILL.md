@@ -32,7 +32,7 @@ Run each lens. Skip any that do not apply.
 4. **Repetition and gaps**: the same thing shown twice; something important never shown.
 5. **Trust killers**: placeholder text, "Example" or "Lorem" labels, mismatched numbers, broken links, stale facts, anything that reads as fake.
 6. **Legibility**: text too small for the real viewing size, low contrast, collisions, clutter, text on screen too briefly to read.
-7. **Voice and copy**: vague or clunky lines, generic phrasing ("streamline your workflow"), violations of the house style if one exists.
+7. **Voice and copy**: vague or clunky lines, generic phrasing ("streamline your workflow"), AI-writing tells (not-X-but-Y framing, em dashes, one-line closers, forced triads, inflated significance), violations of the house style if one exists.
 8. **Craft**: pacing, sound, transitions, consistency. For code: errors, edge cases, security, performance.
 9. **Privacy and safety**: personal data, secrets, real names, anything that should not go public.
 
