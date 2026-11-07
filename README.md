@@ -72,9 +72,13 @@ A real run on a 60 second launch video, trimmed:
 A hypothetical review of a draft social post:
 
 > **Biggest problem: the opening never names the product.** Confidence 4/5. What would change my mind: if this is a reply where the product is already named.
+>
 > **Hurts the message**
+>
 > 1. **"Meet the future" says nothing specific.** Name the product and what it does in the opening line.
+>
 > **My pick:** fix 1 now. One opening-line rewrite, no new assets.
+>
 > Next action: reply "fix my pick" or "skip".
 
 ## How it judges
