@@ -11,6 +11,8 @@ One command that tears apart anything you are about to ship, ranks every problem
 <a href="LICENSE"><img alt="MIT" src="https://img.shields.io/badge/license-MIT-2f6b3f?style=flat-square"></a>
 </p>
 
+<p align="center"><a href="assets/nitpick-launch.mp4"><img src="assets/demo.gif" alt="nitpick in 22 seconds" width="100%"></a><br><sub><a href="assets/nitpick-launch.mp4">Watch with sound (22s)</a></sub></p>
+
 ---
 
 AI is great at telling you your work looks good. That is the problem.
