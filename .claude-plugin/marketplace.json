@@ -1,0 +1,11 @@
+{
+  "name": "nitpick",
+  "owner": { "name": "Raed Marji (Rayo)", "url": "https://github.com/rmarji" },
+  "plugins": [
+    {
+      "name": "nitpick",
+      "source": "./",
+      "description": "Ruthless, ranked critique of any work before it ships."
+    }
+  ]
+}

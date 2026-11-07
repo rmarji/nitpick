@@ -1,0 +1,9 @@
+{
+  "name": "nitpick",
+  "description": "Ruthless, ranked critique of any work before it ships. /nitpick anything: videos, posts, docs, decks, landing pages, code, plans.",
+  "version": "1.0.0",
+  "author": { "name": "Raed Marji (Rayo)", "url": "https://github.com/rmarji" },
+  "homepage": "https://github.com/rmarji/nitpick",
+  "license": "MIT",
+  "keywords": ["review", "critique", "feedback", "launch", "skill"]
+}
